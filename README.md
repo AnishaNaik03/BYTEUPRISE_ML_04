@@ -19,8 +19,8 @@ The dataset used in this project is sourced from the California housing dataset,
 
 # **Project Structure**
 The project is organized as follows:
-housing.csv: The raw dataset file.
-cleaned_data.csv: The preprocessed dataset after handling missing values.
+* housing.csv: The raw dataset file.
+* cleaned_data.csv: The preprocessed dataset after handling missing values.
 
 # **Requirements**
 Python 3.x
