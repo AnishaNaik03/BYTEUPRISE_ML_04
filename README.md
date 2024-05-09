@@ -1,7 +1,7 @@
 # BYTEUPRISE_ML_04
 # House Price Prediction with Linear Regression
 
-This project implements a linear regression model to forecast house prices based on key features including  number of bedrooms, and number of bathrooms. Leveraging predictive analytics techniques, this tool provides accurate estimations that offer valuable insights into real estate trends.
+This repository contains a data science project that predicts house prices using a linear regression model. The model leverages key features such as median income, housing median age, total rooms, total bedrooms, and population to estimate house values in California.
 
 # **Dataset**
 The dataset used in this project is sourced from the California housing dataset, which includes geographical and socioeconomic information about houses in various locations. The dataset is provided in a CSV format (housing.csv).
