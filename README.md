@@ -23,12 +23,12 @@ The project is organized as follows:
 * cleaned_data.csv: The preprocessed dataset after handling missing values.
 
 # **Requirements**
-Python 3.x
-Pandas
-NumPy
-Seaborn
-Matplotlib
-Scikit-learn
+* Python 3.x
+* Pandas
+* NumPy
+* Seaborn
+* Matplotlib
+* Scikit-learn
 
 # **Model Training and Evaluation**
 The linear regression model is trained using the median_income, housing_median_age, total_rooms, total_bedrooms, and population features to predict median_house_value. Model evaluation metrics include:
